@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":["afterDeployCmd","allowExistingApp","appId","appName","basePath","branch","buildCmd","clientMutationId","domains","enableDatabase","extraData","installCmd","jobs","kind","managed","owner","params","perishAt","presetName","region","repoUrl","rootDir","secrets","startCmd","uploadUrl","waitForScreenshotGeneration"]};

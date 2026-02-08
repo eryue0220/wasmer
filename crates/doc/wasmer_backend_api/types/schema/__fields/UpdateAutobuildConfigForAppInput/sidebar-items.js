@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":["afterDeployCmd","appId","buildCmd","clientMutationId","installCmd","presetName","startCmd"]};
